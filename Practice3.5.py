@@ -7,7 +7,7 @@ else:
         print("очень мало")
     else:
         if dlina <= 10:
-                print("мало")
+            print("мало")
         else:
             if dlina <= 30:
                 print("ок")
@@ -16,3 +16,4 @@ else:
                     print("много")
                 else:
                     print("чудовищно много")
+
